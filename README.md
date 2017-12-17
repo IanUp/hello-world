@@ -1,2 +1,3 @@
 # hello-world
 Ian's First coding steps
+I am Ian 40 years old from the Netherlands, I hope to embarc on a new adventure called programming...
